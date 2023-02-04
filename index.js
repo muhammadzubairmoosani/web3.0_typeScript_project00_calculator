@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.blue.bold("\n => WEB_3.0 METAVERSE - TYPESCRIPT PROJECT_0 CALCULATOR! \n"));
